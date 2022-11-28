@@ -4,7 +4,7 @@
     {
         public string Regnr { get; set; }
 
-        public Book()
+        public Book() //KOmmentar
         {
 
         }
